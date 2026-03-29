@@ -1,5 +1,5 @@
 {
-  "latestVersion": "2.0.0",
+  "latestVersion": "1.1.0",
   "title": "Update System",
-  "notes": "- Kateshi legal bot entegrasyonu tamamlandı \n - Discord üzerinde otomatik rol verme sistemi geliştirildi \n - Bildirilen hatalar giderildi."
+  "notes": "- Kateshi Legal BOT ile entegrasyon tamamlandı.\n- Polis rütbeleri için otomatik Discord rol tanımlama sistemi eklendi.\n- Başvuru sistemi için otomatik Discord Rol tanımlama sistemi eklendi.\n -  FTO & FTS de ki rapor 1 den limitsiz'e çıkartıldı."
 }
